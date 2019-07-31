@@ -21,8 +21,10 @@ public class Dowhile {
 			System.out.println("Repeat? Y/N");
 			r = sc.next().charAt(0);
 		
-		} While (r != 'n');
+		}While (r != 'n')
+		
 		sc.close();	
 		}
+	}
 
-}
+
